@@ -1,1 +1,1 @@
-# programacion-est-tica
+# programacion-estatica
